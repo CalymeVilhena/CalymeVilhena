@@ -17,12 +17,7 @@
 
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)   
-    <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/CalymeVilhena/CalymeVilhena/blob/main/baji.jpeg" />
-  </div>
-   
-   <br>
-    
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
  <div style="display: block">
     <a 
        href="mailto: calymevilhena1709@gmail.com" target="_blank">
