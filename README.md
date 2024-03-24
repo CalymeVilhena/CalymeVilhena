@@ -18,6 +18,8 @@
    
   <div style="display: inline_block">
     <img alt="Nix-Js" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+    <img alt="Nix-Html" width="40" height="40" src="https://www.vectorlogo.zone/logos/html-scm/html-scm-icon.svg" /> 
+    <img alt="Nix-Css" width="40" height="40" src="https://www.vectorlogo.zone/logos/css-scm/css-scm-icon.svg" /> 
     <img alt="Nix-Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />  
     <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/CalymeVilhena/CalymeVilhena/blob/main/baji.jpeg" />
   </div>
@@ -29,8 +31,5 @@
        href="mailto: calymevilhena1709@gmail.com" target="_blank">
        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-  </div>
-      
-   ![Snake animation](https://github.com/CalymeVilhena/CalymeVilhena/blob/output/github-contribution-grid-snake.svg)
-    
+  </div>    
 </main>
