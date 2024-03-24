@@ -6,8 +6,15 @@
   ![image-nix](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
     
   <div align="center">
-   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalymeVilhena&layout=compact&theme=algolia&hide=html,css,c,svelte,python,shell" />
+   <img height=60em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalymeVilhena&layout=compact&theme=algolia&hide=html,css,c,svelte,python,shell" />
+
+  
+</div>
    
+   <br>
+    
+ <div style="display: block">
+
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)   
