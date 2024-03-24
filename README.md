@@ -17,10 +17,10 @@
   <br>
    
   <div style="display: inline_block">
-    <img alt="Nix-Js" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-    <img alt="Nix-Html" width="40" height="40" src="https://www.vectorlogo.zone/logos/html-scm/html-scm-icon.svg" /> 
-    <img alt="Nix-Css" width="40" height="40" src="https://www.vectorlogo.zone/logos/css-scm/css-scm-icon.svg" /> 
-    <img alt="Nix-Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />  
+   
+![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)   
     <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/CalymeVilhena/CalymeVilhena/blob/main/baji.jpeg" />
   </div>
    
