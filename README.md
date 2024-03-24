@@ -6,12 +6,12 @@
   ![image-nix](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
    <div align="center">
-      <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=algolia" />
-      <img height=160em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somekindofwallflower&theme=algolia" alt="nikolaslopes" />
+      <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=CalymeVilhena&count_private=true&show_icons=true&theme=algolia" />
+      <img height=160em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somekindofwallflower&theme=algolia" alt="CalymeVilhena" />
    </div>
     
   <div align="center">
-   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=algolia&hide=html,css,c,svelte,python,shell" />
+   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalymeVilhena&layout=compact&theme=algolia&hide=html,css,c,svelte,python,shell" />
   </div>
      
   <br>
@@ -19,7 +19,7 @@
   <div style="display: inline_block">
     <img alt="Nix-Js" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
     <img alt="Nix-Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />  
-    <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/baji.jpeg" />
+    <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/CalymeVilhena/CalymeVilhena/blob/main/baji.jpeg" />
   </div>
    
    <br>
@@ -31,6 +31,6 @@
     </a>
   </div>
       
-   ![Snake animation](https://github.com/nikolaslopes/nikolaslopes/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/CalymeVilhena/CalymeVilhena/blob/output/github-contribution-grid-snake.svg)
     
 </main>
