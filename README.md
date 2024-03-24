@@ -1,12 +1,12 @@
 <main> 
   <a href="https://github.com/nikolaslopes">
-  <h2>Hi, I'm Calyme! <img src="tic-computer-icon.svg" alt="robot" align="center" height="30"></h2>
+  <h2>Hi, I'm Calyme! <img src="tic-computer-icon.svg" alt="robot" align="center" height="10"></h2>
 <!--   ![image-nix](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263) -->
     
   ![image-nix](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
     
   <div align="center">
-   <img height=60em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalymeVilhena&layout=compact&theme=algolia&hide=html,css,c,svelte,python,shell" />
+   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalymeVilhena&layout=compact&theme=algolia&hide=html,css,c,svelte,python,shell" />
 
   
 </div>
