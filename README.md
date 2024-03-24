@@ -4,19 +4,9 @@
 <!--   ![image-nix](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263) -->
     
   ![image-nix](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
-   <div align="center">
-      <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=CalymeVilhena&count_private=true&show_icons=true&theme=algolia" />
-      <img height=160em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somekindofwallflower&theme=algolia" alt="CalymeVilhena" />
-   </div>
     
   <div align="center">
    <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalymeVilhena&layout=compact&theme=algolia&hide=html,css,c,svelte,python,shell" />
-  </div>
-     
-  <br>
-   
-  <div style="display: inline_block">
    
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
